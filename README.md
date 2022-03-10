@@ -1,5 +1,10 @@
 #### Конвейер:
 
+** ССЫЛКА НА ДАННЫЕ  **
+### https://drive.google.com/drive/folders/15oYcZGL_gt97Dsn4MZrojE7idIwWKGWA
+
+
+
 
 ## 1.  Длины взаимодействий  (про разные длины - разные статьи: 1.1, 1.2, ... aka "Конвейер") (Публикации Q2, аналогично Oreshkin comment)
 
