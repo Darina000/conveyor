@@ -19,8 +19,8 @@
 -G4EmStandardPhysics_option4
 
 
-
-
+### Универсально:
+make_plot.py - сделать график для файла типа doc_elect_5-170volume250_denc06_cut50.csv 
 
 
 
