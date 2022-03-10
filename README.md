@@ -4,7 +4,10 @@
 
 ### https://drive.google.com/drive/folders/15oYcZGL_gt97Dsn4MZrojE7idIwWKGWA
 
+Тут данные для 2 физ листов(2 папки): 
 
+-G4EmStandardPhysics
+-G4EmStandardPhysics_option4
 
 
 ## 1.  Длины взаимодействий  (про разные длины - разные статьи: 1.1, 1.2, ... aka "Конвейер") (Публикации Q2, аналогично Oreshkin comment)
